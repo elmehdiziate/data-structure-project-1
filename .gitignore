@@ -9,7 +9,7 @@ typedef struct tag{
     struct tag*next;
 }student_node;
 int check(char* name){
-    // in this function we check the class of the student return 0,1,2,3 if the class is available if not a 4 is returned
+    // in this function we check the class of the student return 0,1,2,3 if the class is available if not number 4 is returned
     if(strcmp(name,"Freshman")==0){
             return(0);
         }
