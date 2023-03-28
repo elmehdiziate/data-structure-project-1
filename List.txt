@@ -1,0 +1,287 @@
+//Data in this file is
+//structured as follow: ID Name Major and Class
+75466
+ABOULOUAFA Oussama
+General Engineering
+Junior
+--------------------
+88793
+AGADR Mohamed
+Big Data Analytics
+Freshman
+-------------------
+93857
+AHENJIR Amine
+Computer Science
+Freshman
+-------------------
+87198
+AJJOUL Maryam
+Computer Science
+Freshman
+-------------------
+92978
+ALOUI Driss
+Computer Science
+Freshman
+-------------------
+85127
+ANAKKAR Kacim Thami
+Computer Science
+Freshman
+--------------------
+96840
+BAGHOUZ Mohamed
+Computer Science
+Freshman
+--------------------
+96952
+BELGACEM Hamza
+Big Data Analytics
+Freshman
+-------------------
+84790
+BELGOUT Mohamed Amine
+Computer Science
+Freshman
+--------------------
+84862
+BENDAHMAN Meryem
+Computer Science
+Freshman
+-------------------
+89428
+BENLAHMR Yassine
+Computer Science
+Freshman
+-------------------
+91797
+BERRADA Mohammed Amine
+Computer Science
+Freshman
+--------------------
+94379
+BOUCHEMMAMA Alaa
+Computer Science
+Freshman
+-------------------
+84848
+BOUQDIR KENZA
+Big Data Analytics
+Freshman
+-------------------
+89514
+BOUSTTA Chaymae
+Computer Systems
+Sophomore
+--------------------
+80048
+BOUYZEM Taha
+Computer Science
+Freshman
+--------------------
+85458
+BYAH Ouiam
+Computer Science
+Freshman
+-------------------
+84221 
+DAUD Suhayb
+Computer Science
+Sophomore
+-------------------
+84681
+DEHMANI Ayoub
+Business Administration
+Sophomore
+-------------------
+89227
+DINI Rania
+Computer Science
+Freshman
+-------------------
+85068
+ECHCHAREF Chaimae
+Computer Science
+Freshman
+-------------------
+100535
+EL HALLOUFI Saifeddine
+Computer Science
+Freshman
+-------------------
+96995
+EL KABIR Fatima
+Computer Science
+Freshman
+--------------------
+81159
+EL KASIMI Mohamed
+Computer Science
+Freshman
+--------------------
+92117
+ELGAF Reda
+Artificial Intelligence & Robotization
+Sophomore
+--------------------
+116788
+ELHAOUD Oumaima
+Big Data Analytics
+Freshman
+--------------------
+85174
+ELHARMOUZI Mohamed
+Computer Science
+Freshman
+--------------------
+85573
+ELMARZOUKY Oumaima
+Artificial Intelligence & Robotization
+Sophomore
+--------------------
+79731
+ELOUALI Nezar
+Computer Science
+Sophomore
+--------------------
+56432
+ELZARHOUNI Ouidad
+Computer Science
+Senior
+--------------------
+81223
+ERRAHMOUNI Mounaim
+Computer Science
+Freshman
+--------------------
+98285
+ESSADIKI Mourad
+Computer Science
+Freshman
+-------------------
+84986
+FOUAD Imane
+Computer Science
+Sophomore
+-------------------
+95972
+GHOTTIS ZINA
+Computer Science
+Sophomore
+-------------------
+84422
+HARRAK Moughit
+Computer Science
+Freshman
+--------------------
+84291
+IBNDAOUIA Rawae
+Computer Science
+Freshman
+--------------------
+89638
+JANAH Soundous
+Computer Science
+Freshman
+--------------------
+91026
+KAANOUNE Meriem
+Big Data Analytics
+Freshman
+-------------------
+84470
+KABELMA Douae
+Computer Science
+Sophomore
+--------------------
+98901
+KABIRI Mouad
+Computer Science
+Freshman
+-------------------
+84802
+KHACHFI Zineb
+Computer Science
+Freshman
+-------------------
+79916
+KOUHAAL Elmehdi
+Computer Science
+Sophomore
+-------------------
+84347
+LAKBAKBI Mohamed Amine
+Computer Science
+Freshman
+-------------------
+72497
+LYAGOUBI Abdallah
+Business Administration
+Junior
+-------------------
+85490
+LYOUSFI Aya
+Artificial Intelligence & Robotization
+Freshman
+--------------------
+95775
+MADDAH Hamza
+Computer Science
+Freshman
+--------------------
+89652
+MAJD Mohamed
+General Engineering
+Freshman
+--------------------
+87474
+MARIHI Zineb
+Artificial Intelligence & Robotization
+Sophomore
+--------------------
+83675
+MILOUDI NADA
+Computer Science
+Sophomore
+-------------------
+81813
+MOZAFARI SOGHRA
+Computer Science
+Sophomore
+-------------------
+91044
+NAKARI Amine
+Computer Science
+Freshman
+-------------------
+99132
+OUZZINE Yasser
+Computer Science
+Freshman
+-------------------
+83046
+QARA Hind
+Engineering and Management Science
+Sophomore
+--------------------
+81356
+RYADI Amine
+Computer Science
+Sophomore
+--------------------
+83712
+TITA Younes
+Computer Science
+Sophomore
+--------------------
+84821
+ZIATE El Mehdi
+Computer Science
+Freshman
+-------------------
+86226
+ZINBI Ilham
+Business Administration
+Sophomore
+-------------------
